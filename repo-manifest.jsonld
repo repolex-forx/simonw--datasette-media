@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-media/commit/99714794a0ef58e9808f68bf752a8b934591d832",
       "git:hexsha": "99714794a0ef58e9808f68bf752a8b934591d832",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.5.1"
     },
     {
